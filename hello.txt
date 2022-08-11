@@ -2,3 +2,4 @@ Halo ges
 --------
 
 Today, I learn about how to squash and merge a branch
+I need to add another line, xixixi
