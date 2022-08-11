@@ -1,2 +1,4 @@
 Halo ges
 --------
+
+Today, I learn about how to squash and merge a branch
